@@ -1,5 +1,5 @@
-import { h, render, Fragment } from 'https://cdn.skypack.dev/preact@10.19.6';
-import { useEffect, useMemo, useState } from 'https://cdn.skypack.dev/preact@10.19.6/hooks';
+import { h, render, Fragment } from 'https://unpkg.com/preact@10.19.6/dist/preact.module.js';
+import { useEffect, useMemo, useState } from 'https://unpkg.com/preact@10.19.6/dist/preact.module.js/hooks';
 
 /** Sync layer
  * Default: localStorage.
