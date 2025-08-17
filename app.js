@@ -74,61 +74,173 @@
     return row;
   }
 
-  function releasesView(){
-    const card = document.createElement('div');
-    card.className = 'card';
-    const header = document.createElement('div');
-    header.className = 'row';
-    header.style.cssText = 'justify-content:space-between; gap:12px; flex-wrap:wrap';
-    const left = document.createElement('div'); left.className='row';
-    const search = document.createElement('input'); search.className='input'; search.placeholder='Zoek op artiest';
-    const only = document.createElement('input'); only.type='checkbox'; only.style.marginLeft='8px';
-    const label = document.createElement('label'); label.className='row'; label.textContent=' Alleen open'; label.prepend(only);
-    left.appendChild(search); left.appendChild(label);
-    const count = document.createElement('span'); count.className='badge'; count.textContent='0 releases';
-    header.appendChild(left); header.appendChild(count);
-    card.appendChild(header);
+  
+function releasesView(){
+  const card = document.createElement('div');
+  card.className = 'card';
+  const header = document.createElement('div');
+  header.className = 'row';
+  header.style.cssText = 'justify-content:space-between; gap:12px; flex-wrap:wrap';
 
-    const scroller = document.createElement('div'); scroller.style.cssText='overflow:auto; max-height:60vh; margin-top:8px';
-    const table = document.createElement('table'); table.className='table';
-    table.innerHTML = `<thead><tr><th>Datum</th><th>Artiest</th><th>Type</th><th>Owner</th><th>Status</th><th>Splits</th><th>Buma/Stemra</th></tr></thead><tbody></tbody>`;
-    const tbody = table.querySelector('tbody');
-    scroller.appendChild(table);
-    card.appendChild(scroller);
+  // LEFT FILTERS
+  const left = document.createElement('div'); left.className='row';
+  const search = document.createElement('input'); search.className='input'; search.placeholder='Zoek op artiest';
 
-    function redraw(){
-      const q = (search.value||'').toLowerCase();
-      const list = state.releases
-        .filter(r=>!q || (r.artist||'').toLowerCase().includes(q))
-        .filter(r=>!only.checked || !r.done)
-        .sort((a,b)=> new Date(a.date)-new Date(b.date));
+  const only = document.createElement('input'); only.type='checkbox'; only.style.marginLeft='8px';
+  const label = document.createElement('label'); label.className='row'; label.textContent=' Alleen open'; label.prepend(only);
 
-      count.textContent = `${list.length} releases`;
-      tbody.innerHTML = '';
-      list.forEach((r, idx)=>{
-        const tr = document.createElement('tr');
-        tr.innerHTML = `
-          <td>${fmt(r.date)}</td>
-          <td>${r.artist}</td>
-          <td><span class="badge">${r.type}</span></td>
-          <td><span class="badge">${r.owner||''}</span></td>
-          <td>
-            <div class="row">
-              <div class="dot ${r.done?'green':'red'}"></div>
-              <button class="button ghost">${r.done?'Klaar':'Open'}</button>
-            </div>
-          </td>
-          <td><input type="checkbox" ${r.splits?'checked':''}></td>
-          <td><input type="checkbox" ${r.buma?'checked':''}></td>
-        `;
-        const btn = tr.querySelector('button');
-        btn.onclick = ()=>{ r.done=!r.done; Storage.set('releases', state.releases); redraw(); };
-        const cb1 = tr.querySelectorAll('input')[0]; cb1.onchange = (e)=>{ r.splits=e.target.checked; Storage.set('releases', state.releases); };
-        const cb2 = tr.querySelectorAll('input')[1]; cb2.onchange = (e)=>{ r.buma=e.target.checked; Storage.set('releases', state.releases); };
-        tbody.appendChild(tr);
-      });
-    }
+  const upcoming = document.createElement('input'); upcoming.type='checkbox'; upcoming.style.marginLeft='8px';
+  const l2 = document.createElement('label'); l2.className='row'; l2.textContent=' Alleen aankomend'; l2.prepend(upcoming);
 
+  const ownerSel = document.createElement('select'); ownerSel.className='input';
+  ['Alle owners','ERRY','NUNEAUX','ADHD','EXTRA'].forEach(v=>{ const o=document.createElement('option'); o.value=v; o.text=v; ownerSel.appendChild(o); });
+
+  const typeSel = document.createElement('select'); typeSel.className='input';
+  ['Alle types','Core','Extra','ADHD Sleep'].forEach(v=>{ const o=document.createElement('option'); o.value=v; o.text=v; typeSel.appendChild(o); });
+
+  const from = document.createElement('input'); from.type='date'; from.className='input';
+  const to = document.createElement('input'); to.type='date'; to.className='input';
+
+  left.appendChild(search);
+  left.appendChild(label);
+  left.appendChild(l2);
+  left.appendChild(ownerSel);
+  left.appendChild(typeSel);
+  left.appendChild(from);
+  left.appendChild(to);
+
+  // RIGHT: actions
+  const right = document.createElement('div'); right.className='row';
+  const count = document.createElement('span'); count.className='badge'; count.textContent='0 releases';
+  const exportBtn = document.createElement('button'); exportBtn.className='button ghost'; exportBtn.textContent='Export JSON';
+  const importBtn = document.createElement('button'); importBtn.className='button ghost'; importBtn.textContent='Import JSON';
+  right.appendChild(exportBtn);
+  right.appendChild(importBtn);
+  right.appendChild(count);
+
+  header.appendChild(left); header.appendChild(right);
+  card.appendChild(header);
+
+  // Add form
+  const form = document.createElement('div'); form.className='card'; form.style.margin='12px 0';
+  form.innerHTML = `
+    <div class="row" style="gap:8px; flex-wrap:wrap">
+      <strong>Nieuwe release:</strong>
+      <input class="input" type="date" name="date"/>
+      <input class="input" placeholder="Artiest" name="artist"/>
+      <select class="input" name="type">
+        <option>Core</option><option>Extra</option><option>ADHD Sleep</option>
+      </select>
+      <select class="input" name="owner">
+        <option>ERRY</option><option>NUNEAUX</option><option>ADHD</option><option>EXTRA</option>
+      </select>
+      <button class="button" name="add">Toevoegen</button>
+    </div>
+  `;
+  form.querySelector('[name=add]').onclick = ()=>{
+    const date = form.querySelector('[name=date]').value;
+    const artist = form.querySelector('[name=artist]').value.trim();
+    const type = form.querySelector('[name=type]').value;
+    const owner = form.querySelector('[name=owner]').value;
+    if(!date || !artist){ alert('Datum en artiest verplicht'); return; }
+    state.releases.push({date, artist, spotifyId: null, type, owner, done:false, splits:false, buma:false});
+    Storage.set('releases', state.releases); redraw();
+    form.querySelector('[name=artist]').value='';
+  };
+  card.appendChild(form);
+
+  // TABLE
+  const scroller = document.createElement('div'); scroller.style.cssText='overflow:auto; max-height:60vh; margin-top:8px';
+  const table = document.createElement('table'); table.className='table';
+  table.innerHTML = `<thead><tr><th>Datum</th><th>Artiest</th><th>Type</th><th>Owner</th><th>Status</th><th>Splits</th><th>Buma/Stemra</th></tr></thead><tbody></tbody>`;
+  const tbody = table.querySelector('tbody');
+  scroller.appendChild(table);
+  card.appendChild(scroller);
+
+  function weekKey(dateStr){
+    const d = new Date(dateStr);
+    const onejan = new Date(d.getFullYear(),0,1);
+    const week = Math.ceil((((d - onejan) / 86400000) + onejan.getDay()+1)/7);
+    return `${d.getFullYear()}-W${String(week).padStart(2,'0')}`;
+  }
+
+  function insertWeekRow(label){
+    const tr = document.createElement('tr');
+    tr.innerHTML = `<td colspan="7"><strong>${label}</strong></td>`;
+    tr.style.background = '#0b132a'; tr.style.position='sticky'; tr.style.top='36px';
+    return tr;
+  }
+
+  function redraw(){
+    const q = (search.value||'').toLowerCase();
+    const today = new Date().toISOString().slice(0,10);
+    const list0 = state.releases
+      .filter(r=>!q || (r.artist||'').toLowerCase().includes(q))
+      .filter(r=>!only.checked || !r.done)
+      .filter(r=>!upcoming.checked || r.date >= today)
+      .filter(r=> ownerSel.value==='Alle owners' || (r.owner||'')===ownerSel.value )
+      .filter(r=> typeSel.value==='Alle types' || (r.type||'')===typeSel.value )
+      .filter(r=> !from.value || r.date >= from.value )
+      .filter(r=> !to.value || r.date <= to.value )
+      .sort((a,b)=> new Date(a.date)-new Date(b.date));
+
+    count.textContent = `${list0.length} releases`;
+    tbody.innerHTML = '';
+
+    let currentWeek = null;
+    list0.forEach((r, idx)=>{
+      const wk = weekKey(r.date);
+      if(wk !== currentWeek){
+        currentWeek = wk;
+        tbody.appendChild(insertWeekRow(currentWeek));
+      }
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td>${fmt(r.date)}</td>
+        <td>${r.artist}</td>
+        <td><span class="badge">${r.type}</span></td>
+        <td><span class="badge">${r.owner||''}</span></td>
+        <td>
+          <div class="row">
+            <div class="dot ${r.done?'green':'red'}"></div>
+            <button class="button ghost">${r.done?'Klaar':'Open'}</button>
+          </div>
+        </td>
+        <td><input type="checkbox" ${r.splits?'checked':''}></td>
+        <td><input type="checkbox" ${r.buma?'checked':''}></td>
+      `;
+      const btn = tr.querySelector('button');
+      btn.onclick = ()=>{ r.done=!r.done; Storage.set('releases', state.releases); redraw(); };
+      const cb1 = tr.querySelectorAll('input')[0]; cb1.onchange = (e)=>{ r.splits=e.target.checked; Storage.set('releases', state.releases); };
+      const cb2 = tr.querySelectorAll('input')[1]; cb2.onchange = (e)=>{ r.buma=e.target.checked; Storage.set('releases', state.releases); };
+      tbody.appendChild(tr);
+    });
+  }
+
+  // Export/Import
+  exportBtn.onclick = ()=>{
+    const blob = new Blob([JSON.stringify(state.releases, null, 2)], {type:'application/json'});
+    const url = URL.createObjectURL(blob);
+    const a=document.createElement('a'); a.href=url; a.download='releases.json'; a.click(); URL.revokeObjectURL(url);
+  };
+  importBtn.onclick = ()=>{
+    const inp = document.createElement('input'); inp.type='file'; inp.accept='application/json';
+    inp.onchange = async ()=>{
+      const file = inp.files[0]; if(!file) return;
+      const text = await file.text();
+      try{
+        const arr = JSON.parse(text);
+        if(!Array.isArray(arr)) throw new Error('JSON moet een array van releases zijn');
+        state.releases = arr; Storage.set('releases', state.releases); redraw();
+      }catch(e){ alert('Import mislukt: '+e.message); }
+    };
+    inp.click();
+  };
+
+  [search, only, upcoming, ownerSel, typeSel, from, to].forEach(el=> el.addEventListener('input', redraw));
+  redraw();
+  return card;
+}
     search.oninput = redraw; only.onchange = redraw;
     redraw();
     return card;
