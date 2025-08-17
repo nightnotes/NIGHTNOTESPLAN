@@ -1,0 +1,25 @@
+*{box-sizing:border-box} body{font-family:ui-sans-serif,system-ui,Segoe UI,Roboto,Helvetica,Arial; margin:0; background:#0b1020; color:#e9eefc}
+.header{display:flex; align-items:center; justify-content:center; padding:24px 16px; border-bottom:1px solid #1f2942}
+.container{max-width:1100px; margin:0 auto; padding:16px}
+.card{background:#0f1630; border:1px solid #1f2942; border-radius:16px; padding:16px; box-shadow:0 6px 24px rgba(0,0,0,.35)}
+.tabs{display:flex; gap:8px; margin-bottom:16px; flex-wrap:wrap}
+.tab{padding:10px 14px; border-radius:999px; border:1px solid #2a375d; background:#0f1630; cursor:pointer}
+.tab.active{background:#1a2750}
+.table{width:100%; border-collapse:collapse}
+.table th,.table td{padding:10px 8px; border-bottom:1px solid #1f2942; font-size:14px}
+.badge{padding:4px 8px; border-radius:999px; border:1px solid #2a375d; font-size:12px}
+.dot{width:10px; height:10px; border-radius:50%}
+.dot.red{background:#ef4444}
+.dot.green{background:#22c55e}
+.row{display:flex; gap:12px; align-items:center}
+.input, select{background:#0b132a; border:1px solid #27365e; color:#e9eefc; padding:8px 10px; border-radius:8px}
+.button{background:#3357ff; color:#fff; padding:10px 14px; border:none; border-radius:10px; cursor:pointer}
+.button.ghost{background:transparent; border:1px solid #2a375d}
+.grid{display:grid; gap:12px}
+.grid-2{grid-template-columns:1fr 1fr}
+.grid-3{grid-template-columns:repeat(3,1fr)}
+.link{color:#93c5fd; text-decoration:none}
+.center{display:flex; justify-content:center; align-items:center}
+.login{min-height:60vh}
+.footer{opacity:.6; font-size:12px; text-align:center; padding:16px}
+.table thead th{position:sticky; top:0; background:#0f1630}

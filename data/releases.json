@@ -1,0 +1,4144 @@
+{
+  "releases": [
+    {
+      "date": "2025-08-24",
+      "artist": "Katty",
+      "spotifyId": "7sWJR3GtdK9Jr09w5Nh16B",
+      "type": "Core",
+      "owner": "ERRY",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-08-25",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-08-25",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Core",
+      "owner": "NUNEAUX",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-08-25",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-08-26",
+      "artist": "Evelyn Winter",
+      "spotifyId": "4ByXb0waTbnoUu4EaPPD2W",
+      "type": "Core",
+      "owner": "ERRY",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-08-26",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-08-27",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-08-27",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Core",
+      "owner": "NUNEAUX",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-08-28",
+      "artist": "Krople",
+      "spotifyId": "00yTD0tYQNrivASVQgBGes",
+      "type": "Core",
+      "owner": "ERRY",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-08-29",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-08-29",
+      "artist": "Eleanor Moon",
+      "spotifyId": "5d8GtQxBbULssUMeaHpTJ4",
+      "type": "Core",
+      "owner": "NUNEAUX",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-08-30",
+      "artist": "Luna Nights",
+      "spotifyId": "2Ar9N9Kr5qNvDq188I0DsC",
+      "type": "Core",
+      "owner": "ERRY",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-08-31",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-08-31",
+      "artist": "Sleepy Delrow",
+      "spotifyId": "5AzDNSnXecyb5n2SGEk210",
+      "type": "Core",
+      "owner": "NUNEAUX",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-01",
+      "artist": "Domindo Nuni",
+      "spotifyId": "6IsY6SBSPEQFRDZYzsF2nS",
+      "type": "Core",
+      "owner": "ERRY",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-01",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-02",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-02",
+      "artist": "Lila Serene",
+      "spotifyId": "6CNN1uNMESxlBFkAlPLFGC",
+      "type": "Core",
+      "owner": "NUNEAUX",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-02",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-03",
+      "artist": "Sophia Vale",
+      "spotifyId": "79A1B10WsQEm7MiRCHC9Fa",
+      "type": "Core",
+      "owner": "ERRY",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-04",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-04",
+      "artist": "Soft Dawn",
+      "spotifyId": "1lw523m68IbWJqOXAW1dp6",
+      "type": "Core",
+      "owner": "NUNEAUX",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-05",
+      "artist": "Ava Willow",
+      "spotifyId": "37rDPPf5ljzqE4MTvC1PyH",
+      "type": "Core",
+      "owner": "ERRY",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-06",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-06",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Core",
+      "owner": "NUNEAUX",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-07",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Core",
+      "owner": "ERRY",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-08",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-08",
+      "artist": "Nunery Dream",
+      "spotifyId": "357zDmhgGTYSyYTyBTD65t",
+      "type": "Core",
+      "owner": "NUNEAUX",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-08",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-09",
+      "artist": "Ludo Legato",
+      "spotifyId": "00qvWOgeQtQf4XcxJM6DzU",
+      "type": "Core",
+      "owner": "ERRY",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-09",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-10",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-10",
+      "artist": "Celestine Viora",
+      "spotifyId": "2McwFGt12uHTCNmI7VhC2K",
+      "type": "Core",
+      "owner": "NUNEAUX",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-11",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "Core",
+      "owner": "ERRY",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-12",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-12",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "Core",
+      "owner": "NUNEAUX",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-13",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "Core",
+      "owner": "ERRY",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-14",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-14",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "Core",
+      "owner": "NUNEAUX",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-15",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "Core",
+      "owner": "ERRY",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-15",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-16",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-16",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "Core",
+      "owner": "NUNEAUX",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-16",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-17",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "Core",
+      "owner": "NUNEAUX",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-18",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-20",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-22",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-22",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-23",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-24",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-26",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-28",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-29",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-30",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-09-30",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-10-02",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-10-04",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-10-06",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-10-06",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-10-07",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-10-08",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-10-10",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-10-12",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-10-13",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-10-14",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-10-14",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-10-16",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-10-18",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-10-20",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-10-20",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-10-21",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-10-22",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-10-24",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-10-26",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-10-27",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-10-28",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-10-28",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-10-30",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-11-01",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-11-03",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-11-03",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-11-04",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-11-05",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-11-07",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-11-09",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-11-10",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-11-11",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-11-11",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-11-13",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-11-15",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-11-17",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-11-17",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-11-18",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-11-19",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-11-21",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-11-23",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-11-24",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-11-25",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-11-25",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-11-27",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-11-29",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-01",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-01",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-02",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-03",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-05",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-07",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-08",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-09",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-09",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-11",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-13",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-15",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-15",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-16",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-17",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-19",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-21",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-22",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-23",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-23",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-25",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-27",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-29",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-29",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-30",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2025-12-31",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-01-02",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-01-04",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-01-05",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-01-06",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-01-06",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-01-08",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-01-10",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-01-12",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-01-12",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-01-13",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-01-14",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-01-16",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-01-18",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-01-19",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-01-20",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-01-20",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-01-22",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-01-24",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-01-26",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-01-26",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-01-27",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-01-28",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-01-30",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-02-01",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-02-02",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-02-03",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-02-03",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-02-05",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-02-07",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-02-09",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-02-09",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-02-10",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-02-11",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-02-13",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-02-15",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-02-16",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-02-17",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-02-17",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-02-19",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-02-21",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-02-23",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-02-23",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-02-24",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-02-25",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-02-27",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-01",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-02",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-03",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-03",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-05",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-07",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-09",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-09",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-10",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-11",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-13",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-15",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-16",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-17",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-17",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-19",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-21",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-23",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-23",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-24",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-25",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-27",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-29",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-30",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-31",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-03-31",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-04-02",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-04-04",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-04-06",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-04-06",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-04-07",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-04-08",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-04-10",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-04-12",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-04-13",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-04-14",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-04-14",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-04-16",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-04-18",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-04-20",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-04-20",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-04-21",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-04-22",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-04-24",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-04-26",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-04-27",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-04-28",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-04-28",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-04-30",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-05-02",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-05-04",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-05-04",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-05-05",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-05-06",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-05-08",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-05-10",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-05-11",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-05-12",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-05-12",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-05-14",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-05-16",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-05-18",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-05-18",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-05-19",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-05-20",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-05-22",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-05-24",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-05-25",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-05-26",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-05-26",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-05-28",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-05-30",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-01",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-01",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-02",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-03",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-05",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-07",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-08",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-09",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-09",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-11",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-13",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-15",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-15",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-16",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-17",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-19",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-21",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-22",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-23",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-23",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-25",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-27",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-29",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-29",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-06-30",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-07-01",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-07-03",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-07-05",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-07-06",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-07-07",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-07-07",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-07-09",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-07-11",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-07-13",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-07-13",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-07-14",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-07-15",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-07-17",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-07-19",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-07-20",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-07-21",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-07-21",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-07-23",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-07-25",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-07-27",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-07-27",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-07-28",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-07-29",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-07-31",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-08-02",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-08-03",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-08-04",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-08-04",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-08-06",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-08-08",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-08-10",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-08-10",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-08-11",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-08-12",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-08-14",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-08-16",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-08-17",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-08-18",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-08-18",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-08-20",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-08-22",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-08-24",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-08-24",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-08-25",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-08-26",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-08-28",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-08-30",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-08-31",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-09-01",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-09-01",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-09-03",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-09-05",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-09-07",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-09-07",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-09-08",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-09-09",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-09-11",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-09-13",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-09-14",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-09-15",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-09-15",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-09-17",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-09-19",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-09-21",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-09-21",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-09-22",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-09-23",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-09-25",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-09-27",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-09-28",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-09-29",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-09-29",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-10-01",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-10-03",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-10-05",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-10-05",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-10-06",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-10-07",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-10-09",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-10-11",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-10-12",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-10-13",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-10-13",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-10-15",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-10-17",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-10-19",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-10-19",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-10-20",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-10-21",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-10-23",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-10-25",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-10-26",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-10-27",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-10-27",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-10-29",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-10-31",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-11-02",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-11-02",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-11-03",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-11-04",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-11-06",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-11-08",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-11-09",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-11-10",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-11-10",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-11-12",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-11-14",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-11-16",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-11-16",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-11-17",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-11-18",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-11-20",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-11-22",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-11-23",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-11-24",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-11-24",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-11-26",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-11-28",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-11-30",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-11-30",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-12-01",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-12-02",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-12-04",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-12-06",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-12-07",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-12-08",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-12-08",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-12-10",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-12-12",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-12-14",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-12-14",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-12-15",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-12-16",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-12-18",
+      "artist": "Doris Lost",
+      "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-12-20",
+      "artist": "Eternal",
+      "spotifyId": "4oOqA7kbwce90hbDDKjoID",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-12-21",
+      "artist": "Motionless",
+      "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-12-22",
+      "artist": "Slaapmutsje",
+      "spotifyId": "1iH0DmClTXD3DEXO490gbq",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-12-22",
+      "artist": "Loomy",
+      "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-12-24",
+      "artist": "ZizZa",
+      "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-12-26",
+      "artist": "Sleepy Teas",
+      "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-12-28",
+      "artist": "Dreamflow",
+      "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-12-28",
+      "artist": "Muted Mind",
+      "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-12-29",
+      "artist": "Swooshy",
+      "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
+      "type": "Extra",
+      "owner": "EXTRA",
+      "done": false,
+      "splits": false,
+      "buma": false
+    },
+    {
+      "date": "2026-12-30",
+      "artist": "Poluz",
+      "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
+      "type": "ADHD Sleep",
+      "owner": "ADHD",
+      "done": false,
+      "splits": false,
+      "buma": false
+    }
+  ]
+}
