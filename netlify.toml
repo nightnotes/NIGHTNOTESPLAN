@@ -1,0 +1,5 @@
+[build]
+  publish = "."
+  command = ""
+
+# Optional: stricter caching can be added here if needed

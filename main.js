@@ -75,6 +75,7 @@
   }
 
   
+
 function releasesView(){
   const card = document.createElement('div');
   card.className = 'card';
@@ -96,7 +97,7 @@ function releasesView(){
   ['Alle owners','ERRY','NUNEAUX','ADHD','EXTRA'].forEach(v=>{ const o=document.createElement('option'); o.value=v; o.text=v; ownerSel.appendChild(o); });
 
   const typeSel = document.createElement('select'); typeSel.className='input';
-  ['Alle types','Core','Extra','ADHD Sleep'].forEach(v=>{ const o=document.createElement('option'); o.value=v; o.text=v; typeSel.appendChild(o); });
+  ['Alle types','Core','Extra','ADHD Sleep'].forEach(v=>{ const o=document.createElement('option'); o.value=v; typeSel.appendChild(o); });
 
   const from = document.createElement('input'); from.type='date'; from.className='input';
   const to = document.createElement('input'); to.type='date'; to.className='input';
@@ -164,6 +165,83 @@ function releasesView(){
     return `${d.getFullYear()}-W${String(week).padStart(2,'0')}`;
   }
 
+  function insertWeekRow(label){
+    const tr = document.createElement('tr');
+    tr.innerHTML = `<td colspan="7"><strong>${label}</strong></td>`;
+    tr.style.background = '#0b132a'; tr.style.position='sticky'; tr.style.top='36px';
+    return tr;
+  }
+
+  function redraw(){
+    const q = (search.value||'').toLowerCase();
+    const today = new Date().toISOString().slice(0,10);
+    const list0 = state.releases
+      .filter(r=>!q || (r.artist||'').toLowerCase().includes(q))
+      .filter(r=>!only.checked || !r.done)
+      .filter(r=>!upcoming.checked || r.date >= today)
+      .filter(r=> ownerSel.value==='Alle owners' || (r.owner||'')===ownerSel.value )
+      .filter(r=> typeSel.value==='Alle types' || (r.type||'')===typeSel.value )
+      .filter(r=> !from.value || r.date >= from.value )
+      .filter(r=> !to.value || r.date <= to.value )
+      .sort((a,b)=> new Date(a.date)-new Date(b.date));
+
+    count.textContent = `${list0.length} releases`;
+    tbody.innerHTML = '';
+
+    let currentWeek = null;
+    list0.forEach((r, idx)=>{
+      const wk = weekKey(r.date);
+      if(wk !== currentWeek){
+        currentWeek = wk;
+        tbody.appendChild(insertWeekRow(currentWeek));
+      }
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td>${fmt(r.date)}</td>
+        <td>${r.artist}</td>
+        <td><span class="badge">${r.type}</span></td>
+        <td><span class="badge">${r.owner||''}</span></td>
+        <td>
+          <div class="row">
+            <div class="dot ${r.done?'green':'red'}"></div>
+            <button class="button ghost">${r.done?'Klaar':'Open'}</button>
+          </div>
+        </td>
+        <td><input type="checkbox" ${r.splits?'checked':''}></td>
+        <td><input type="checkbox" ${r.buma?'checked':''}></td>
+      `;
+      const btn = tr.querySelector('button');
+      btn.onclick = ()=>{ r.done=!r.done; Storage.set('releases', state.releases); redraw(); };
+      const cb1 = tr.querySelectorAll('input')[0]; cb1.onchange = (e)=>{ r.splits=e.target.checked; Storage.set('releases', state.releases); };
+      const cb2 = tr.querySelectorAll('input')[1]; cb2.onchange = (e)=>{ r.buma=e.target.checked; Storage.set('releases', state.releases); };
+      tbody.appendChild(tr);
+    });
+  }
+
+  // Export/Import
+  exportBtn.onclick = ()=>{
+    const blob = new Blob([JSON.stringify(state.releases, null, 2)], {type:'application/json'});
+    const url = URL.createObjectURL(blob);
+    const a=document.createElement('a'); a.href=url; a.download='releases.json'; a.click(); URL.revokeObjectURL(url);
+  };
+  importBtn.onclick = ()=>{
+    const inp = document.createElement('input'); inp.type='file'; inp.accept='application/json';
+    inp.onchange = async ()=>{
+      const file = inp.files[0]; if(!file) return;
+      const text = await file.text();
+      try{
+        const arr = JSON.parse(text);
+        if(!Array.isArray(arr)) throw new Error('JSON moet een array van releases zijn');
+        state.releases = arr; Storage.set('releases', state.releases); redraw();
+      }catch(e){ alert('Import mislukt: '+e.message); }
+    };
+    inp.click();
+  };
+
+  [search, only, upcoming, ownerSel, typeSel, from, to].forEach(el=> el.addEventListener('input', redraw));
+  redraw();
+  return card;
+}
   function insertWeekRow(label){
     const tr = document.createElement('tr');
     tr.innerHTML = `<td colspan="7"><strong>${label}</strong></td>`;
